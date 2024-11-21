@@ -5,6 +5,5 @@
 
 I am doing this commit for implementing the rebase command and trying to revert.
 Now i have added a new file to the feature Branch , it is only available in the featureBranch and not in the main branch.
-
-
+this is the message added in the testBranch and not in the main branch
 
