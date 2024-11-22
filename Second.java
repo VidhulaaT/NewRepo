@@ -1,4 +1,3 @@
 econd
-his is the note file added to the feature branch
+Made some changes in second .java file in cheery branch
 
-This is the note added in the rebaseBranch and  not in main branch
